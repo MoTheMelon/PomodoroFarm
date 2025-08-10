@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56cb7ac3506924bd4947da7d581351cc, type: 3}
+  m_Name: Wheat
+  m_EditorClassIdentifier: 
+  id: wheat
+  growthFrames:
+  - {fileID: 7482667652216324306, guid: b4526573f9e26494e8f1d21d090dd9bb, type: 3}
+  - {fileID: 7482667652216324306, guid: d77b67560079844c1a4fd54881649f5d, type: 3}
+  - {fileID: 7482667652216324306, guid: 0df33165e6ae04a6b999ac89e6c75e7d, type: 3}
+  stageDurations:
+  - 2
+  - 3
+  harvestYield: 1
+  regrowAfterHarvest: 1
+  price: 0
