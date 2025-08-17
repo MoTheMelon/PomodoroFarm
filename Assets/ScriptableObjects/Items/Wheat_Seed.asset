@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3d27d5753ba646b0a1c0f1d923f6754, type: 3}
   m_Name: Wheat_Seed
   m_EditorClassIdentifier: 
-  id: 
+  id: wheat_seed
   type: 0
-  icon: {fileID: 0}
-  cost: 1
-  cropId: 
+  icon: {fileID: 21300000, guid: 2d7be4bc979c34fc5b39924b2105bcaa, type: 3}
+  cost: 0
+  cropId: wheat
