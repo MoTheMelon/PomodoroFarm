@@ -18,8 +18,8 @@ MonoBehaviour:
   - {fileID: 7482667652216324306, guid: d77b67560079844c1a4fd54881649f5d, type: 3}
   - {fileID: 7482667652216324306, guid: 0df33165e6ae04a6b999ac89e6c75e7d, type: 3}
   stageDurations:
-  - 1
-  - 1
+  - 2
+  - 3
   harvestYield: 1
-  regrowAfterHarvest: 0
+  regrowAfterHarvest: 1
   price: 0
